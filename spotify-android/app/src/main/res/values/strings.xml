@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spotify Clone</string>
+    <string name="app_title">Spotify-like Player</string>
+    <string name="app_description">Aplikacja używa Spotify API (Client ID + Client Secret) i pobiera polecane playlisty.</string>
+    <string name="load_playlists">Pobierz playlisty</string>
+    <string name="default_message">Kliknij "Pobierz playlisty" aby wyświetlić listę.</string>
+</resources>
